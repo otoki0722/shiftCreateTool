@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "name": "迫",
+      "is_manager": true
+    },
+    {
+      "name": "田嶋",
+      "is_manager": true
+    },
+    {
+      "name": "齋藤",
+      "is_manager": true
+    },
+    {
+      "name": "田中",
+      "is_manager": true
+    },
+    {
+      "name": "時",
+      "is_manager": false
+    },
+    {
+      "name": "雨宮",
+      "is_manager": false
+    },
+    {
+      "name": "門田",
+      "is_manager": false
+    },
+    {
+      "name": "秋山",
+      "is_manager": false
+    }
+  ]
+}

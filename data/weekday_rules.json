@@ -1,0 +1,39 @@
+{
+  "weekday_rules": {
+    "0": {
+      "min_work": 5,
+      "min_managers": 1,
+      "leader_required": true
+    },
+    "1": {
+      "min_work": 5,
+      "min_managers": 1,
+      "leader_required": true
+    },
+    "2": {
+      "min_work": 5,
+      "min_managers": 1,
+      "leader_required": true
+    },
+    "3": {
+      "min_work": 5,
+      "min_managers": 1,
+      "leader_required": true
+    },
+    "4": {
+      "min_work": 5,
+      "min_managers": 1,
+      "leader_required": true
+    },
+    "5": {
+      "min_work": 6,
+      "min_managers": 1,
+      "leader_required": true
+    },
+    "6": {
+      "min_work": 6,
+      "min_managers": 1,
+      "leader_required": true
+    }
+  }
+}
